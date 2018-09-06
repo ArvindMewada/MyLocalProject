@@ -1,0 +1,2 @@
+# MyLocalProject
+AndroidLocalSample
